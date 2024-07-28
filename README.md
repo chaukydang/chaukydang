@@ -20,22 +20,22 @@
 
  🌍 I'm Vietnamese 
  
- 🔭 I’m currently learning Data Science and Financial Mathematicals as a 3nd year student at UEH University.<br>
+ 🔭 I’m currently learning Data Science as a 3nd year student at UEH University.<br>
  
  </div>
  
 <h3 align="left">Connect with me:</h3>
 
 <div align="left"> 
-  <a href="mailto:nktoan163@gmail.com">
+  <a href="mailto:dangchauky2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/toankhanhnguyen/" target="_blank">
+  <a href="https://www.linkedin.com/in/ky-dang-chau-942645180/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://toannguyenkhanh.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   </a>
+  <a href="https://chaukydang/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
+  </a> -->
 </div>
 
 ## 💻 Tech Stack:
@@ -88,9 +88,9 @@
 
 <h1 align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
-![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukydang&layout=compact&theme=nightowl)](https://github.com/chaukydang/github-readme-stats)<br>
+![](https://github.com/chaukydang/github-stats/blob/master/generated/languages.svg)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chaukydang&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 
 
 </h1>
@@ -105,40 +105,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> -->
-
-# 🤖🚀 My Projects 🔬🛠️:
-
-<h1 align="left">
-
-<a href="https://github.com/ToanNguyenKhanh/Badminton-Analysis"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Badminton-Analysis&theme=radical" />
-</a>   
-
-
-<a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Forklift-Object-detection&theme=radical" />
-</a>   
-
-
-<a href="https://github.com/ToanNguyenKhanh/Tree-Detection-using-faster_RCNN">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection-using-faster_RCNN&theme=radical" />
-</a>    
-
-<a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical" />
-</a>    
-
-<a href="https://github.com/ToanNguyenKhanh/AG-News-Text-Classification">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=AG-News-Text-Classification&theme=radical" />
-</a>  
-
-<a href="https://github.com/ToanNguyenKhanh/spaceship-titanic">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=spaceship-titanic&theme=radical" />
-</a>   
-
-<a href="https://github.com/ToanNguyenKhanh/HaNoi-Tower-project-using-Stack">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
-</a>    
-
-</h1>
-
