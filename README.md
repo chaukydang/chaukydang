@@ -44,18 +44,17 @@
 
 
   <h3>Languages</br></h3>
-  <div align="left">
+  <div align="center">
 
-   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
-   <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=282828"> 
-   <img src="https://img.shields.io/badge/R-EADBC8.svg?style=for-the-badge&logo=R&logoColor=blue&labelColor=282829"> 
+   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"> 
+   <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"> 
 
-    
+ <!--   
   </div>
 
   <h3>Libraries & Frameworks</br></h3>
-  <div align="left">
+   <div align="left">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=282828">
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">
@@ -64,7 +63,7 @@
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=4d77cf&labelColor=282828">
-
+ -->
 
 
     
@@ -73,27 +72,34 @@
    </div>
 
   <h3>Software & Tools</br></h3>
-   <div align="left">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=f5c022&labelColor=282828">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=282828">
-    <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
-    <img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-f27727?style=for-the-badge&logo=Jupyter&logoColor=f27727&labelColor=282828">
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
-    <img alt="VMWare" src="https://img.shields.io/badge/VMWare-208abc?style=for-the-badge&logo=vmware&logoColor=208abc&labelColor=282828">
+   <div align="center">
+    <img alt="Docker" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000">
+    <img alt="Linux" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
+    <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+    <img alt="Pycharm" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000">
+    <img alt="Jupyter" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000">
+    <img alt="Colab" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000">
+    <img alt="VMWare" src="https://img.icons8.com/?size=100&id=mkkp6yt38FVq&format=png&color=000000">
+    <img alt="Visual Studio Code" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
+     
    </div>
 
-# 📊 GitHub:
 
-<h1 align="left">
+## 📊 Activities:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukydang&layout=compact&theme=nightowl)](https://github.com/chaukydang/github-readme-stats)<br>
-![](https://github.com/chaukydang/github-stats/blob/master/generated/languages.svg)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chaukydang&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
-
-
-</h1>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaukydang&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages%20%20" alt="chaukydang" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=chaukydang&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470" alt="chaukydang" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- 
 <div align="center">
